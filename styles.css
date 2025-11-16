@@ -37,3 +37,24 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Card Styles for Index Page */
+.card {
+    min-height: 250px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2) !important;
+}
+
+.card-body {
+    padding: 3rem;
+}
+
+.card-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
