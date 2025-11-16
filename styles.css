@@ -58,3 +58,10 @@ footer {
     font-weight: bold;
     color: #333;
 }
+
+/* Logo Image Styles */
+.logo-image {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
