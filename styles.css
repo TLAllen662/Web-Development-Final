@@ -1,15 +1,18 @@
+/* Global Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Body Styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
 }
 
+/* Header Styles */
 header {
     background-color: #4CAF50;
     color: white;
@@ -17,12 +20,14 @@ header {
     padding: 1rem;
 }
 
+/* Main Content Styles */
 main {
     padding: 2rem;
     max-width: 1200px;
     margin: 0 auto;
 }
 
+/* Footer Styles */
 footer {
     background-color: #333;
     color: white;
